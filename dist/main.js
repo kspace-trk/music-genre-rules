@@ -871,9 +871,9 @@ const n = [
       ]
     }
   ]
-], e = {
+], t = {
   notes: n
-}, t = [
+}, i = [
   [
     {
       duration: [
@@ -1373,8 +1373,8 @@ const n = [
     null
   ]
 ], a = {
-  notes: t
-}, i = [
+  notes: i
+}, e = [
   [
     {
       duration: [
@@ -2011,12 +2011,790 @@ const n = [
     null
   ]
 ], m = {
-  notes: i
-}, u = {
-  one_measure_repeating_notes: e,
+  notes: e
+}, u = [
+  {
+    duration_diff: [
+      []
+    ],
+    name_diff: [
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        4,
+        2,
+        2,
+        -4
+      ]
+    ],
+    time_diff: [
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    time_mutation_start_point: [
+      null,
+      null,
+      null,
+      null
+    ],
+    name_mutation_start_point: [
+      null,
+      null,
+      null,
+      0.2
+    ]
+  },
+  {
+    duration_diff: [
+      []
+    ],
+    name_diff: [
+      [],
+      [
+        -2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        -2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        -6,
+        -2,
+        -2,
+        2,
+        1,
+        0
+      ]
+    ],
+    time_diff: [
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0.125
+      ]
+    ],
+    time_mutation_start_point: [
+      null,
+      null,
+      null,
+      0.83
+    ],
+    name_mutation_start_point: [
+      null,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    duration_diff: [
+      []
+    ],
+    name_diff: [
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        -4
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        3,
+        -2,
+        0,
+        0,
+        4
+      ]
+    ],
+    time_diff: [
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    time_mutation_start_point: [
+      null,
+      null,
+      null,
+      null
+    ],
+    name_mutation_start_point: [
+      null,
+      0.83,
+      null,
+      0
+    ]
+  },
+  {
+    duration_diff: [
+      []
+    ],
+    name_diff: [
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        3,
+        2,
+        -1,
+        2,
+        -1
+      ],
+      [
+        1,
+        2,
+        1,
+        -2,
+        1,
+        -2
+      ]
+    ],
+    time_diff: [
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    time_mutation_start_point: [
+      null,
+      null,
+      null,
+      null
+    ],
+    name_mutation_start_point: [
+      null,
+      null,
+      0,
+      0
+    ]
+  },
+  {
+    duration_diff: [
+      []
+    ],
+    name_diff: [
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        -1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        -1,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    time_diff: [
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    time_mutation_start_point: [
+      null,
+      null,
+      null,
+      null
+    ],
+    name_mutation_start_point: [
+      null,
+      null,
+      0,
+      0
+    ]
+  },
+  {
+    duration_diff: [
+      []
+    ],
+    name_diff: [
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        -3
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        -2
+      ],
+      [
+        4,
+        1,
+        1,
+        1,
+        1,
+        -1
+      ]
+    ],
+    time_diff: [
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    time_mutation_start_point: [
+      null,
+      null,
+      null,
+      null
+    ],
+    name_mutation_start_point: [
+      null,
+      0.83,
+      0.83,
+      0
+    ]
+  },
+  {
+    duration_diff: [
+      []
+    ],
+    name_diff: [
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        -1,
+        -4,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        -7,
+        -1,
+        -2,
+        -2,
+        6,
+        2
+      ]
+    ],
+    time_diff: [
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    time_mutation_start_point: [
+      null,
+      null,
+      null,
+      null
+    ],
+    name_mutation_start_point: [
+      null,
+      0.57,
+      null,
+      0
+    ]
+  },
+  {
+    duration_diff: [
+      []
+    ],
+    name_diff: [
+      [],
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      []
+    ],
+    time_diff: [
+      [],
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      []
+    ],
+    time_mutation_start_point: [
+      null,
+      0.67,
+      null,
+      0.67
+    ],
+    name_mutation_start_point: [
+      null,
+      0.44,
+      null,
+      0
+    ]
+  }
+], l = {
+  notes: u
+}, o = [
+  {
+    duration_diff: [
+      []
+    ],
+    name_diff: [
+      [],
+      []
+    ],
+    time_diff: [
+      [],
+      []
+    ],
+    time_mutation_start_point: [
+      null,
+      0
+    ],
+    name_mutation_start_point: [
+      null,
+      0.78
+    ]
+  },
+  {
+    duration_diff: [
+      []
+    ],
+    name_diff: [
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        -2,
+        -5,
+        -5,
+        -1,
+        -1,
+        0,
+        0
+      ]
+    ],
+    time_diff: [
+      [],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    ],
+    time_mutation_start_point: [
+      null,
+      0
+    ],
+    name_mutation_start_point: [
+      null,
+      0.42
+    ]
+  },
+  {
+    duration_diff: [
+      []
+    ],
+    name_diff: [
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        -13,
+        -13,
+        -4,
+        -4,
+        -4,
+        -11
+      ]
+    ],
+    time_diff: [
+      [],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    ],
+    time_mutation_start_point: [
+      null,
+      0
+    ],
+    name_mutation_start_point: [
+      null,
+      0.45
+    ]
+  },
+  {
+    duration_diff: [
+      []
+    ],
+    name_diff: [
+      [],
+      []
+    ],
+    time_diff: [
+      [],
+      []
+    ],
+    time_mutation_start_point: [
+      null,
+      0
+    ],
+    name_mutation_start_point: [
+      null,
+      0.5
+    ]
+  },
+  {
+    duration_diff: [
+      []
+    ],
+    name_diff: [
+      [],
+      [
+        -1,
+        0,
+        -1,
+        -1,
+        -1,
+        -1,
+        -6,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    time_diff: [
+      [],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    ],
+    time_mutation_start_point: [
+      null,
+      0
+    ],
+    name_mutation_start_point: [
+      null,
+      0
+    ]
+  },
+  {
+    duration_diff: [
+      []
+    ],
+    name_diff: [
+      [],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        -2,
+        -2,
+        -2,
+        -3,
+        -1
+      ]
+    ],
+    time_diff: [
+      [],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    ],
+    time_mutation_start_point: [
+      null,
+      0
+    ],
+    name_mutation_start_point: [
+      null,
+      0.5
+    ]
+  }
+], _ = {
+  notes: o
+}, d = {
+  one_measure_repeating_notes: t,
   two_measure_repeating_notes: a,
-  four_measure_repeating_notes: m
+  four_measure_repeating_notes: m,
+  one_measure_repeating_notes_diff: l,
+  two_measure_repeating_notes_diff: _
 };
 export {
-  u as default
+  d as default
 };
