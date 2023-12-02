@@ -3,6 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "main": "./dist/main.umd.cjs",
+  "module": "./dist/main.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -11,5 +16,11 @@
   "devDependencies": {
     "typescript": "^5.2.2",
     "vite": "^5.0.0"
+  },
+  "exports": {
+    ".": {
+      "require": "./dist/main.umd.cjs",
+      "import": "./dist/main.js"
+    }
   }
 }
